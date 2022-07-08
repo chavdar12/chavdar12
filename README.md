@@ -17,3 +17,4 @@
 <a> Spring Advanced - October 2021 </a> | <a href="https://softuni.bg/certificates/details/122627/72171837"> Link</a> |
 <a> JS Application - February 2022 </a> | <a href="https://softuni.bg/Certificates/Details/130306/059b1f47"> Link</a> |
 <a> Data Structures Advanced with Java - April 2022 </a> | <a href="https://softuni.bg/certificates/details/133541/16e577bd"> Link</a> |
+<a> HTML & CSS - May 2022 </a> | <a href="https://softuni.bg/certificates/details/136935/337fe012"> Link</a> |
