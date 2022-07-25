@@ -1,7 +1,5 @@
 # Successfully taken SoftUni courses 
 
-![softuni](https://drive.google.com/file/d/1-RdZEB8_DMc-xKzBCH8f3p9GZ11VLKB7/view?usp=sharing)
-
 **<h2>Certificates</h2>**
 
 |**Course**|**Link**| 
