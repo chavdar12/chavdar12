@@ -1,6 +1,6 @@
 # Successfully taken SoftUni courses 
 
-![softuni](https://user-images.githubusercontent.com/42092212/95587214-70b99400-0a4a-11eb-9899-63d027ee54bd.png)
+![softuni](https://drive.google.com/file/d/1-Oc4x7J8cAR19NY7CP9XIdRliOrQezJx/view?usp=sharing)
 
 **<h2>Certificates</h2>**
 
