@@ -1,7 +1,4 @@
 # Successfully taken SoftUni courses 
-
-**<h2>Certificates</h2>**
-
 |**Course**|**Link**| 
 |---|---|
 <a> Programming Basics with Java  </a>   | <a href="https://softuni.bg/certificates/details/85328/d2450203"> Link</a> |
